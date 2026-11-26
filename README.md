@@ -9,7 +9,11 @@ SQL injection and XSS, maps them to **MITRE ATT&CK**, and helps an analyst inves
 ![Security](https://img.shields.io/badge/Focus-Blue%20Team%20%2F%20SOC-0f766e)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
-🔗 **Live demo:** _add your Streamlit link here after deploying_
+🔗 **Live demo:** https://mini-soc-dashboard.streamlit.app/
+
+## 🎬 Demo Video
+
+https://github.com/user-attachments/assets/5b8e093b-4bbc-425d-877b-676c30046f9e
 
 ![Dashboard overview](screenshots/overview.png)
 
